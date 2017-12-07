@@ -1,0 +1,86 @@
+{
+  "crops": [{
+    "cultivation":"Test crop",
+      "ph":"6",
+      "p":"30",
+      "ca":"5",
+      "na":"1",
+      "k":"1",
+      "fe":"60",
+      "texture":"Franco Arenoso",
+      "sand":"64",
+      "humidity":"101",
+      "temperature":"28",
+      "plantingDate": "3/1/2010",
+      "cultivationTimeInDays": "156",
+      "id": "1"
+    },
+
+    {
+    "cultivation":"sangre de sol",
+      "ph":"3",
+      "p":"3",
+      "ca":"5",
+      "na":"1",
+      "k":"0",
+      "fe":"101",
+      "texture":"Seco",
+      "sand":"54",
+      "humidity":"124",
+      "temperature":"31",
+      "plantingDate": "12/5/2017",
+      "cultivationTimeInDays": "156",
+      "id": "1"
+    },
+
+    {
+    "cultivation":"Estrella morada",
+      "ph":"4",
+      "p":"3",
+      "ca":"3",
+      "na":"2",
+      "k":"2",
+      "fe":"97",
+      "texture":"Franca",
+      "sand":"50",
+      "humidity":"28",
+      "temperature":"28",
+      "plantingDate": "20/11/2000",
+      "cultivationTimeInDays": "156",
+      "id": "1"
+    },
+
+    {
+    "cultivation":"R12",
+      "ph":"2",
+      "p":"2",
+      "ca":"4",
+      "na":"0",
+      "k":"0",
+      "fe":"88",
+      "texture":"Franca Arcillosa",
+      "sand":"63",
+      "humidity":"118",
+      "temperature":"28",
+      "plantingDate": "01/5/2010",
+      "cultivationTimeInDays": "156",
+      "id": "1"
+    },
+
+    {
+    "cultivation":"Pacha negra",
+      "ph":"1",
+      "p":"2",
+      "ca":"2",
+      "na":"1",
+      "k":"0",
+      "fe":"108",
+      "texture":"Seca",
+      "sand":"73",
+      "humidity":"100",
+      "temperature":"29",
+      "plantingDate": "03/02/2008",
+      "cultivationTimeInDays": "156",
+      "id": "1"
+    }]
+}
